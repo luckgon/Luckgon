@@ -1,16 +1,14 @@
 <h1 align="center"> Hi 👋, I'm Lucas </h1>
 
-## Ferramentas e Tecnologias
-<br>
-<div style="display: inline_block" align="center"><br>
-
+<div style="display: inline_block" align="center">
+  <h2>Ferramentas e Tecnologias</h2>
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img width="" height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-  <img width="" height="30" src="https://www.svgrepo.com/show/303388/java-4-logo.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
   
 </div>
 <br>
@@ -19,7 +17,7 @@
 <!--<img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckgon&layout=compact&langs_count=7&theme=dracula"/>-->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luckgon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-![SUAS estatísticas do github](https://github-readme-stats.vercel.app/api?username=luckgon)
+<!--![SUAS estatísticas do github](https://github-readme-stats.vercel.app/api?username=luckgon)-->
 
 <!--
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME ) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/ NOME DE USUÁRIO) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin .com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https: //www.instagram.com/NOME DE USUÁRIO/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
